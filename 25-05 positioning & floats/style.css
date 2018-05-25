@@ -1,0 +1,58 @@
+div {
+    display: block
+}
+#cajaRoja {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    background-color: red;
+
+}
+
+#cajaMorada {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 50px;
+    right: 50px;
+    top: 50px;
+    bottom: 50px;
+}
+
+#cajaAmarilla {
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 0px;
+    right: 25px;
+    top: 0px;
+    bottom: 25px;
+}
+
+#cajaAzul {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    top:10px;
+}
+
+#cajaNegra {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 0px;
+}
+
+#cajaVerde {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left:50px;
+}
